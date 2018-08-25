@@ -20,7 +20,7 @@ export class AppComponent implements OnInit{
   title = 'Tour of Heroes';
   appLog(mess:string){
     console.log(this.targetMessage + mess);
-    console.log('aaa');
+    console.log('aadddca');
   }
   ngOnInit() {
     // console.log(this.el.nativeElement);
